@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+
+    font-size: 2.4rem;
+}
+table {
+    margin-top: 30%;
+    margin-bottom: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+table {
+    border: 1px solid black;
+    
+    border-collapse: collapse;
+    
+   }
+
+
+.menu th {
+    
+    font-size: 1em;
+    border-radius: 20px 20px 0px 0px;
+    background-color: #FFAAEA;
+}
+
+.menu td {
+    font-size: 0.8em;
+    text-align: center;
+    background-color:#FFD3DA;
+   
+    border-top: 1px solid black;
+    display: block;
+}
+
+.menu a {
+    color: #112A46;
+    text-decoration: none;
+}
+
+table tr:last-child td {
+    border-radius: 0px 0px 20px 20px;
+  }
+
+
+#headerMenu {
+    border-radius: 20px 20px 0px 0px;
+}
+#bevande {
+    border-radius: 0px 0px 20px 20px;
+}
+
+  
