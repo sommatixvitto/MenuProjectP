@@ -39,6 +39,7 @@ h2{
 .menu-list li {
     font-size: 1.8rem;
     background-color: #56A3A6;
+
     
 }
 .menu-list a{
@@ -64,5 +65,5 @@ h2{
 
 
 .menu-list li:last-child{
-    border-radius: 0px 0px 15px 15px #4F6D7A;
+    border-radius: 0px 0px 15px 15px;
 }
